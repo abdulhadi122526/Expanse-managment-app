@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+option{
+  background-color: rgb(240, 238, 238);
+  margin-top: 30px;
+}
